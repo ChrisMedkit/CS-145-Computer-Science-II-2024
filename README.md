@@ -19,6 +19,7 @@ logic, inheritance, interfaces, exceptions, file input, and linked lists.
 | [`Retail/`](Retail) | Songs and movies as retail items | Abstract classes, inheritance, overloaded constructors, sorting with `Collections.sort` |
 | [`StoutPerson/`](StoutPerson) | Class hierarchy of campus people | Inheritance, abstract classes, method overriding, `Comparable`, sorting arrays of objects |
 | [`TicTacToe/`](TicTacToe) | Playable two-player Tic Tac Toe | Multiple classes working together, 2D `char` arrays, win/draw detection, console input |
+| [`JavaFX Practice/`](JavaFXPractice) | Testing out features of JavaFX | Multiple class, input strings, image display, buttons, etc |
 
 ## Requirements
 
@@ -70,6 +71,10 @@ An abstract `StoutPerson` base class with `Student`, `Instructor`, and
 ### TicTacToe
 A two-player console game. `TicTacToeBoard` handles the grid and win
 checks; `TicTacToe` handles turns, input validation, and the game loop.
+
+### JavaFX Practice
+Messing around to make a deployable front end for different situations.
+Fun starter use of JavaFX
 
 ## Notes
 - Original assignment text is not included.
