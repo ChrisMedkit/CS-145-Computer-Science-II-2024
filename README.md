@@ -14,17 +14,6 @@ game logic, and inheritance with sorting.
 | [`TicTacToe/`](TicTacToe) | Playable two-player Tic Tac Toe | Multiple classes working together, 2D `char` arrays, win/draw detection, console input with `Scanner` |
 | [`StoutPerson/`](StoutPerson) | Class hierarchy of campus people | Inheritance, abstract classes, method overriding, `Comparable`, sorting arrays of objects |
 
-## Requirements
-
-- Java Development Kit (JDK) 8 or newer
-
-
-| Folder | Main class to run |
-|--------|-------------------|
-| `2DArrayLab/` | `PrecipitationDriver` |
-| `Game/` | `GameDriver` |
-| `TicTacToe/` | `TicTacToe` |
-| `StoutPerson/` | `StoutPersonDriver` |
 
 ## Project details
 
