@@ -20,6 +20,8 @@ logic, inheritance, interfaces, exceptions, file input, and linked lists.
 | [`StoutPerson/`](StoutPerson) | Class hierarchy of campus people | Inheritance, abstract classes, method overriding, `Comparable`, sorting arrays of objects |
 | [`TicTacToe/`](TicTacToe) | Playable two-player Tic Tac Toe | Multiple classes working together, 2D `char` arrays, win/draw detection, console input |
 | [`JavaFX Practice/`](JavaFXPractice) | Testing out features of JavaFX | Multiple class, input strings, image display, buttons, etc |
+| [`Fifa Card Game/`](FifaCardGame) | Card Game with Fifa cards | Built an app to randomly give 2 players a formation of 7 players. The player with higher ratings wins. Custom player list, custom cards. |
+
 
 ## Requirements
 
@@ -75,6 +77,11 @@ checks; `TicTacToe` handles turns, input validation, and the game loop.
 ### JavaFX Practice
 Messing around to make a deployable front end for different situations.
 Fun starter use of JavaFX
+
+### Fifa Card Game
+Built a card game which acts like a roulette. This card game involves 
+2 players where each player gets a shuffled formation of 7 players
+The player with a higher total score of cards wins.
 
 ## Notes
 - Original assignment text is not included.
